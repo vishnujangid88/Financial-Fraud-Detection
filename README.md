@@ -40,7 +40,7 @@ This project tackles the challenge of detecting fraudulent financial transaction
 
 ## 💾 Dataset
 
-- **Source**: [Kaggle - PaySim Synthetic Financial Dataset]
+- **Source**: Kaggle - PaySim Synthetic Financial Dataset
 - **Dataset Link**: https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0
 - **Rows**: 6,362,620
 - **Columns**: 11
