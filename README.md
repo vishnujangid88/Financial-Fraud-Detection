@@ -159,21 +159,6 @@ Top predictors of fraud:
 
 ---
 
-## 🤝 Contributing
-
-We welcome community contributions! Here’s how:
-
-```bash
-# Fork the repo and create your branch
-git checkout -b feature/YourFeature
-
-# Make changes and commit
-git commit -m "Added a new feature"
-
-# Push and open a Pull Request
-git push origin feature/YourFeature
-```
-
 ---
 
 ## 📑 Data Dictionary
@@ -202,6 +187,20 @@ git push origin feature/YourFeature
 
 ---
 
+## 🤝 Contributing
+
+We welcome community contributions! Here’s how:
+
+```bash
+# Fork the repo and create your branch
+git checkout -b feature/YourFeature
+
+# Make changes and commit
+git commit -m "Added a new feature"
+
+# Push and open a Pull Request
+git push origin feature/YourFeature
+```
 
 ---
 
