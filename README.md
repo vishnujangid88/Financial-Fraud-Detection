@@ -16,6 +16,7 @@ A powerful, interpretable, and GPU-accelerated machine learning model built to p
 - [📊 Model Performance](#-model-performance)
 - [🔍 Feature Importance](#-feature-importance)
 - [💡 Actionable Insights](#-actionable-insights)
+- [📑 Data Dictionary](#-data-dictionary)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 
@@ -130,7 +131,7 @@ Open and run `Fraud_Detection_Model.ipynb`.
 ### ROC and PR Curves
 
 <p align="center">
-  <img src="images/roc_curve.png" width="45%" alt="ROC Curve">
+  <img src="https://github.com/user-attachments/assets/90437012-d2c4-42a6-bc72-05e599c7b44f" width="45%" alt="ROC Curve">
   <img src="images/pr_curve.png" width="45%" alt="Precision-Recall Curve">
 </p>
 
@@ -156,8 +157,6 @@ Top predictors of fraud:
 - **Real-Time Scoring**: Integrate the model to flag transactions during execution.
 - **Fraud Rule Automation**: Flag any transaction with non-zero accounting errors.
 - **Transaction-Type Filters**: Apply additional scrutiny to high-risk transaction types (e.g., TRANSFER, CASH_OUT).
-
----
 
 ---
 
