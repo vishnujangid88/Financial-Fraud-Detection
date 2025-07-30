@@ -132,10 +132,8 @@ Open and run `Fraud_Detection_Model.ipynb`.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/90437012-d2c4-42a6-bc72-05e599c7b44f" width="45%" alt="ROC Curve">
-  <img src="images/pr_curve.png" width="45%" alt="Precision-Recall Curve">
+  <img src="https://github.com/user-attachments/assets/02716f30-ee38-49cc-9fad-b317cb356d5f" width="45%" alt="Precision-Recall Curve">
 </p>
-
-> **Note**: Save the ROC and Precision-Recall plots from the notebook as `roc_curve.png` and `pr_curve.png` in an `images/` folder.
 
 ---
 
