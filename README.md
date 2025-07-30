@@ -146,8 +146,6 @@ Top predictors of fraud:
 - **`amount`** – Transaction amount
 - **`type`** – Transaction type (e.g., TRANSFER, CASH_OUT)
 
-> Engineered features like `errorBalanceOrig` were especially effective at surfacing fraud patterns.
-
 ---
 
 ## 💡 Actionable Insights
