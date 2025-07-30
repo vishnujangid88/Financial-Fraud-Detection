@@ -176,6 +176,35 @@ git push origin feature/YourFeature
 
 ---
 
+## 📑 Data Dictionary
+
+**step** — Maps a unit of time in the real world. In this case, 1 step is 1 hour of time. Total steps: 744 (30 days simulation).
+
+**type** — Transaction type: CASH-IN, CASH-OUT, DEBIT, PAYMENT, and TRANSFER.
+
+**amount** — Amount of the transaction in local currency.
+
+**nameOrig** — Customer who initiated the transaction.
+
+**oldbalanceOrg** — Initial balance of the sender before the transaction.
+
+**newbalanceOrig** — New balance of the sender after the transaction.
+
+**nameDest** — Customer who is the recipient of the transaction.
+
+**oldbalanceDest** — Initial balance of the recipient before the transaction. (Note: No info for merchants — names starting with ‘M’.)
+
+**newbalanceDest** — New balance of the recipient after the transaction. (Note: No info for merchants — names starting with ‘M’.)
+
+**isFraud** — Indicates if the transaction was fraudulent. Fraudulent behavior simulates agents taking control of customer accounts and draining funds via TRANSFER followed by CASH_OUT.
+
+**isFlaggedFraud** — Flags illegal attempts to transfer more than 200,000 in a single transaction.
+
+---
+
+
+---
+
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
