@@ -78,7 +78,7 @@ imblearn
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/fraud-detection-model.git
+git clone https://github.com/vishnujangid88/Financial-Fraud-Detection
 cd fraud-detection-model
 
 # Create and activate virtual environment
